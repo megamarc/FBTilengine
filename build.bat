@@ -1,0 +1,10 @@
+del *.exe
+fbc mode7.bas
+fbc Racer.bas
+fbc SuperMarioClone.bas
+fbc learning.bas
+fbc fbgfx-composing.bas
+fbc fbgfx-composing2.bas
+fbc composing.bas
+fbc composing2.bas
+fbc test.bas
